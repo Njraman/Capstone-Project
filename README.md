@@ -11,10 +11,13 @@ The analysis explored the relationship of the different parameters with heart di
 
 My roles and contribution during the various segments of this project were as follows:
 
-•	Segment 1: Triangle role: Machine Learning Model: Identifying the value to be predicted, planning the approach, performing exploratory data analysis, building a preliminary machine learning model, attempting different approaches to gaining a good accuracy score. Preliminary Machine Learning model proposal document was prepared.
-•	Segment 2: Square role: Machine learning Model: Since there was a change in project topic, all the steps performed in Segment 1 were repeated. Preliminary exploratory data analysis was done, a simple machine learning model was built and good accuracy scores were generated. The Machine Learning Model documentation was updated.
-•	Segment 3: X Role and Machine Learning Model:  Full Exploratory Data Analysis was completed. Multiple combinations of machine Learning Models were attempted along with resampling, feature selections and train-test splits to arrive at optimal model with balance between accuracy, precision and recall scores. The Machine Learning documentation was completed. The X role was assumed by all team members as we split and tested the modules we owned.
-•	Segment 4: Square role, X role and Team roles:  Roles were shared among the members as all worked together on practicing the presentation. My primary shared duties were to clean up the README as well as reviewing the rubric to ensure project meets the requirements.
+- Segment 1: Triangle role: Machine Learning Model: Identifying the value to be predicted, planning the approach, performing exploratory data analysis, building a preliminary machine learning model, attempting different approaches to gaining a good accuracy score. Preliminary Machine Learning model proposal document was prepared.
+
+- Segment 2: Square role: Machine learning Model: Since there was a change in project topic, all the steps performed in Segment 1 were repeated. Preliminary exploratory data analysis was done, a simple machine learning model was built and good accuracy scores were generated. The Machine Learning Model documentation was updated.
+
+- Segment 3: X Role and Machine Learning Model:  Full Exploratory Data Analysis was completed. Multiple combinations of machine Learning Models were attempted along with resampling, feature selections and train-test splits to arrive at optimal model with balance between accuracy, precision and recall scores. The Machine Learning documentation was completed. The X role was assumed by all team members as we split and tested the modules we owned.
+
+- Segment 4: Square role, X role and Team roles:  Roles were shared among the members as all worked together on practicing the presentation. My primary shared duties were to clean up the README as well as reviewing the rubric to ensure project meets the requirements.
 
 Besides my individual roles, my contribution to the team included:
 1.	Strategizing the approach to be followed and technologies to be used for each deliverable via team discussions.
@@ -31,12 +34,12 @@ The biggest personal challenge encountered was researching various reasons and p
 
 The following strategies were followed by the team:
 
-•	Project Planning and assignment of tasks based on individual strengths
-•	Team involvement in every deliverable when any challenges were faced by the person in charge.
-•	Regular communication and meetings helped with status updates and issue resolutions.
-•	Planned and Coordinated check ins and branch merges on GitHub so that latest versions are not lost.
-•	Prompt and timely completion of tasks helped with weekly submissions on time and also handover of tasks from one team member to another.
-•	Sharing of roles: All team members shared roles during one week or the other especially when the deliverable was on the critical path. This way the deliverable did not hold up any of the other member’s deliverables and tasks were completed on time.
+- Project Planning and assignment of tasks based on individual strengths
+- Team involvement in every deliverable when any challenges were faced by the person in charge.
+- Regular communication and meetings helped with status updates and issue resolutions.
+- Planned and Coordinated check ins and branch merges on GitHub so that latest versions are not lost.
+- Prompt and timely completion of tasks helped with weekly submissions on time and also handover of tasks from one team member to another.
+- Sharing of roles: All team members shared roles during one week or the other especially when the deliverable was on the critical path. This way the deliverable did not hold up any of the other member’s deliverables and tasks were completed on time.
 
 ## __Team Challenges:__
 
